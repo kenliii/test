@@ -31,3 +31,10 @@ main{
     border-radius: 15px;
     padding: 30px 40px;
 }
+
+.card__head{
+    display: flex;
+    align-items: center;
+    color: hsl(0, 0%, 81%);
+    margin-bottom: 10px;
+}
