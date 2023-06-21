@@ -22,3 +22,12 @@ main{
     grid-template-rows: repeat(2, min-content);
     grid-gap: 20px;
 }
+
+.card{
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(217, 19%, 35%);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    padding: 30px 40px;
+}
