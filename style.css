@@ -61,3 +61,9 @@ main{
     margin-bottom: 10px;
     font-size: 20px;
 }
+
+.card-detail {
+    color: hsl(0, 0%, 81%);
+    line-height: 1.5;
+    opacity: 0.7;
+}
